@@ -44,4 +44,4 @@ def execute_fun(filename,sheetname):
 
 
 # 调用excute_fun 对login接口自动化测试
-execute_fun("C:\Users\11031\.jenkins\workspace\\scb22\\test_data\\testcase_api_wuye.xlsx", "login")  # 代码分层结构，测试用例xlsx获取写绝对路径
+execute_fun("C:\\Users\\11031\.jenkins\workspace\\scb22\\test_data\\testcase_api_wuye.xlsx", "login")  # 代码分层结构，测试用例xlsx获取写绝对路径
